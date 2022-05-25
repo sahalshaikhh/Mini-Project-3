@@ -1,0 +1,49 @@
+* {
+  background-color: rgb(236, 190, 236);
+}
+a:hover {
+  color: aliceblue;
+  background-color: black;
+}
+nav {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.a {
+  background-color: rgb(31, 14, 0);
+  padding: 0px;
+  margin: auto;
+  text-align: right;
+  font-size: large;
+  opacity: 0.6;
+}
+.b {
+  background-image: url(OIPP.jpg);
+  color: cornsilk;
+  padding: 32px;
+  padding-bottom: 3%;
+  border-image: auto;
+}
+.d {
+  font-size: xx-large;
+  font-style: inherit;
+  opacity: 0.6;
+  text-transform: capitalize;
+  text-align: justify;
+}
+.tv {
+  text-align: center;
+  font-style: italic;
+  font-size: medium;
+}
+figcaption {
+  font-size: 20px;
+  margin: -55px;
+  padding: -10px;
+}
+.zs {
+  align-items: center;
+}
+.r {
+  text-align: left;
+}
